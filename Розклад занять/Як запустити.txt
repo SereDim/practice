@@ -1,0 +1,1 @@
+У цій папці bin>Debug>net6.0-windows>try4.exe

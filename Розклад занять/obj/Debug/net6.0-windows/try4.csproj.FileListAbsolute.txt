@@ -1,0 +1,85 @@
+C:\Users\38093\source\repos\try4\bin\Debug\net6.0-windows\try4.exe
+C:\Users\38093\source\repos\try4\bin\Debug\net6.0-windows\try4.deps.json
+C:\Users\38093\source\repos\try4\bin\Debug\net6.0-windows\try4.runtimeconfig.json
+C:\Users\38093\source\repos\try4\bin\Debug\net6.0-windows\try4.dll
+C:\Users\38093\source\repos\try4\bin\Debug\net6.0-windows\try4.pdb
+C:\Users\38093\source\repos\try4\obj\Debug\net6.0-windows\try4.csproj.AssemblyReference.cache
+C:\Users\38093\source\repos\try4\obj\Debug\net6.0-windows\try4.Form1.resources
+C:\Users\38093\source\repos\try4\obj\Debug\net6.0-windows\try4.csproj.GenerateResource.cache
+C:\Users\38093\source\repos\try4\obj\Debug\net6.0-windows\try4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38093\source\repos\try4\obj\Debug\net6.0-windows\try4.AssemblyInfoInputs.cache
+C:\Users\38093\source\repos\try4\obj\Debug\net6.0-windows\try4.AssemblyInfo.cs
+C:\Users\38093\source\repos\try4\obj\Debug\net6.0-windows\try4.csproj.CoreCompileInputs.cache
+C:\Users\38093\source\repos\try4\obj\Debug\net6.0-windows\try4.dll
+C:\Users\38093\source\repos\try4\obj\Debug\net6.0-windows\refint\try4.dll
+C:\Users\38093\source\repos\try4\obj\Debug\net6.0-windows\try4.pdb
+C:\Users\38093\source\repos\try4\obj\Debug\net6.0-windows\try4.genruntimeconfig.cache
+C:\Users\38093\source\repos\try4\obj\Debug\net6.0-windows\ref\try4.dll
+C:\Users\38093\source\repos\try9c\bin\Debug\net6.0-windows\try4.exe
+C:\Users\38093\source\repos\try9c\bin\Debug\net6.0-windows\try4.deps.json
+C:\Users\38093\source\repos\try9c\bin\Debug\net6.0-windows\try4.runtimeconfig.json
+C:\Users\38093\source\repos\try9c\bin\Debug\net6.0-windows\try4.dll
+C:\Users\38093\source\repos\try9c\bin\Debug\net6.0-windows\try4.pdb
+C:\Users\38093\source\repos\try9c\obj\Debug\net6.0-windows\try4.csproj.AssemblyReference.cache
+C:\Users\38093\source\repos\try9c\obj\Debug\net6.0-windows\try4.Form1.resources
+C:\Users\38093\source\repos\try9c\obj\Debug\net6.0-windows\try4.csproj.GenerateResource.cache
+C:\Users\38093\source\repos\try9c\obj\Debug\net6.0-windows\try4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38093\source\repos\try9c\obj\Debug\net6.0-windows\try4.AssemblyInfoInputs.cache
+C:\Users\38093\source\repos\try9c\obj\Debug\net6.0-windows\try4.AssemblyInfo.cs
+C:\Users\38093\source\repos\try9c\obj\Debug\net6.0-windows\try4.csproj.CoreCompileInputs.cache
+C:\Users\38093\source\repos\try9c\obj\Debug\net6.0-windows\try4.dll
+C:\Users\38093\source\repos\try9c\obj\Debug\net6.0-windows\refint\try4.dll
+C:\Users\38093\source\repos\try9c\obj\Debug\net6.0-windows\try4.pdb
+C:\Users\38093\source\repos\try9c\obj\Debug\net6.0-windows\try4.genruntimeconfig.cache
+C:\Users\38093\source\repos\try9c\obj\Debug\net6.0-windows\ref\try4.dll
+C:\Users\38093\source\repos\try9\bin\Debug\net6.0-windows\try4.exe
+C:\Users\38093\source\repos\try9\bin\Debug\net6.0-windows\try4.deps.json
+C:\Users\38093\source\repos\try9\bin\Debug\net6.0-windows\try4.runtimeconfig.json
+C:\Users\38093\source\repos\try9\bin\Debug\net6.0-windows\try4.dll
+C:\Users\38093\source\repos\try9\bin\Debug\net6.0-windows\try4.pdb
+C:\Users\38093\source\repos\try9\obj\Debug\net6.0-windows\try4.csproj.AssemblyReference.cache
+C:\Users\38093\source\repos\try9\obj\Debug\net6.0-windows\try4.Form1.resources
+C:\Users\38093\source\repos\try9\obj\Debug\net6.0-windows\try4.csproj.GenerateResource.cache
+C:\Users\38093\source\repos\try9\obj\Debug\net6.0-windows\try4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38093\source\repos\try9\obj\Debug\net6.0-windows\try4.AssemblyInfoInputs.cache
+C:\Users\38093\source\repos\try9\obj\Debug\net6.0-windows\try4.AssemblyInfo.cs
+C:\Users\38093\source\repos\try9\obj\Debug\net6.0-windows\try4.csproj.CoreCompileInputs.cache
+C:\Users\38093\source\repos\try9\obj\Debug\net6.0-windows\try4.dll
+C:\Users\38093\source\repos\try9\obj\Debug\net6.0-windows\refint\try4.dll
+C:\Users\38093\source\repos\try9\obj\Debug\net6.0-windows\try4.pdb
+C:\Users\38093\source\repos\try9\obj\Debug\net6.0-windows\try4.genruntimeconfig.cache
+C:\Users\38093\source\repos\try9\obj\Debug\net6.0-windows\ref\try4.dll
+C:\Users\38093\source\repos\try12\bin\Debug\net6.0-windows\try4.exe
+C:\Users\38093\source\repos\try12\bin\Debug\net6.0-windows\try4.deps.json
+C:\Users\38093\source\repos\try12\bin\Debug\net6.0-windows\try4.runtimeconfig.json
+C:\Users\38093\source\repos\try12\bin\Debug\net6.0-windows\try4.dll
+C:\Users\38093\source\repos\try12\bin\Debug\net6.0-windows\try4.pdb
+C:\Users\38093\source\repos\try12\obj\Debug\net6.0-windows\try4.csproj.AssemblyReference.cache
+C:\Users\38093\source\repos\try12\obj\Debug\net6.0-windows\try4.Form1.resources
+C:\Users\38093\source\repos\try12\obj\Debug\net6.0-windows\try4.csproj.GenerateResource.cache
+C:\Users\38093\source\repos\try12\obj\Debug\net6.0-windows\try4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38093\source\repos\try12\obj\Debug\net6.0-windows\try4.AssemblyInfoInputs.cache
+C:\Users\38093\source\repos\try12\obj\Debug\net6.0-windows\try4.AssemblyInfo.cs
+C:\Users\38093\source\repos\try12\obj\Debug\net6.0-windows\try4.csproj.CoreCompileInputs.cache
+C:\Users\38093\source\repos\try12\obj\Debug\net6.0-windows\try4.dll
+C:\Users\38093\source\repos\try12\obj\Debug\net6.0-windows\refint\try4.dll
+C:\Users\38093\source\repos\try12\obj\Debug\net6.0-windows\try4.pdb
+C:\Users\38093\source\repos\try12\obj\Debug\net6.0-windows\try4.genruntimeconfig.cache
+C:\Users\38093\source\repos\try12\obj\Debug\net6.0-windows\ref\try4.dll
+C:\Users\38093\source\repos\Розклад занять\bin\Debug\net6.0-windows\try4.exe
+C:\Users\38093\source\repos\Розклад занять\bin\Debug\net6.0-windows\try4.deps.json
+C:\Users\38093\source\repos\Розклад занять\bin\Debug\net6.0-windows\try4.runtimeconfig.json
+C:\Users\38093\source\repos\Розклад занять\bin\Debug\net6.0-windows\try4.dll
+C:\Users\38093\source\repos\Розклад занять\bin\Debug\net6.0-windows\try4.pdb
+C:\Users\38093\source\repos\Розклад занять\obj\Debug\net6.0-windows\try4.csproj.AssemblyReference.cache
+C:\Users\38093\source\repos\Розклад занять\obj\Debug\net6.0-windows\try4.Form1.resources
+C:\Users\38093\source\repos\Розклад занять\obj\Debug\net6.0-windows\try4.csproj.GenerateResource.cache
+C:\Users\38093\source\repos\Розклад занять\obj\Debug\net6.0-windows\try4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38093\source\repos\Розклад занять\obj\Debug\net6.0-windows\try4.AssemblyInfoInputs.cache
+C:\Users\38093\source\repos\Розклад занять\obj\Debug\net6.0-windows\try4.AssemblyInfo.cs
+C:\Users\38093\source\repos\Розклад занять\obj\Debug\net6.0-windows\try4.csproj.CoreCompileInputs.cache
+C:\Users\38093\source\repos\Розклад занять\obj\Debug\net6.0-windows\try4.dll
+C:\Users\38093\source\repos\Розклад занять\obj\Debug\net6.0-windows\refint\try4.dll
+C:\Users\38093\source\repos\Розклад занять\obj\Debug\net6.0-windows\try4.pdb
+C:\Users\38093\source\repos\Розклад занять\obj\Debug\net6.0-windows\try4.genruntimeconfig.cache
+C:\Users\38093\source\repos\Розклад занять\obj\Debug\net6.0-windows\ref\try4.dll
